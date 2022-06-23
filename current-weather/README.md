@@ -30,14 +30,14 @@ GET
 {
    "result": {
 	  "temperature": 23.7,		// temperature in celsius
-	  "humidity": 42.3,			// humidity in percent
+	  "humidity": 42.3,		// humidity in percent
 	  "pressure": 99824.3,		// absolute pressure in pascals
 	  "wind_speed": 3.2,		// one minute wind speed average in m/s
-	  "wind_gust": 5.3,			// wind gust in m/s
+	  "wind_gust": 5.3,		// wind gust in m/s
 	  "wind_direction": 167,	// wind direction in degrees
-	  "rain": 28.4990,			// sum of rain from midnight in mm
+	  "rain": 28.4990,		// sum of rain from midnight in mm
 	  "solar_radiation": 38,	// solar radiation in W/m2
-	  "uv": 0,					// UV index
+	  "uv": 0,			// UV index
 	  "measurement_timestamp": 1655833994	// timestamp when datas was measured
    },
    "success": true,
