@@ -1,14 +1,8 @@
 # eMeteo API
 
-## :warning: API is not working, because is in development. :warning:
-
-Follow us on [Facebook](https://www.facebook.com/emeteoeu) for more information about API.
-
----
-
 ## API ID & API Key request
 
-If you are interested in API ID and API Key, [contact us](https://emeteo.sk/kontakt) with short description of usage our API in your project.
+If you are interested in API ID and API Key, [contact us](https://emeteo.sk/kontakt) with short description of usage our API in your project. More information can you find on [our portal](https://emeteo.sk/api).
 
 
 ## List of functions
